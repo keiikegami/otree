@@ -1,0 +1,3 @@
+[submodule "local_pass"]
+	path = local_pass
+	url = https://github.com/oTree-org/oTree/
