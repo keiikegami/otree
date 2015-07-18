@@ -18,3 +18,31 @@ otreeはこのDjangoに基づいて作られた経済実験用のアプリケー
 
 作ったappはHerokuを使ってweb上で実行するようです。
 基本的には無料枠で頑張れそうです。
+
+
+#　手順
+①実験のプログラムを書き、見栄えを整える。
+
+以下の5つが全ての基本っぽい。
+[creating apps](http://otree.readthedocs.org/en/latest/apps.html)
+
+[models](http://otree.readthedocs.org/en/latest/models.html)
+
+[views](http://otree.readthedocs.org/en/latest/views.html)
+
+[templtaes](http://otree.readthedocs.org/en/latest/templates.html)
+
+[forms](http://otree.readthedocs.org/en/latest/forms.html)
+
+
+②自分一人でうまく動くかテスト
+
+[manual testing](http://otree.readthedocs.org/en/latest/manual_testing.html)
+
+[automated testing](http://otree.readthedocs.org/en/latest/bots.html)
+
+
+③サーバーを使って実験本番
+
+[server deployment](http://otree.readthedocs.org/en/latest/server.html)
+
