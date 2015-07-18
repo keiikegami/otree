@@ -13,6 +13,8 @@ otreeはこのDjangoに基づいて作られた経済実験用のアプリケー
 
 ## Heroku
 [ホームページ](https://www.heroku.com/)
+
 [参考](http://developers.mobage.jp/blog/how-to-use-for-beginners-heroku)
+
 作ったappはHerokuを使ってweb上で実行するようです。
 基本的には無料枠で頑張れそうです。
